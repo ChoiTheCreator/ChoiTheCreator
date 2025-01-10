@@ -5,7 +5,7 @@ import Parser from 'rss-parser';
  * README.MD에 작성될 페이지 텍스트
  * @type {string}
  */
-let text = `# 안녕하세요 👋
+let text = `# 안녕하십니까 👋
 
 
 

@@ -50,13 +50,13 @@ let text = `# 반갑습니다. 최원빈입니다. 👋
 // rss-parser 생성
 const parser = new Parser({
   headers: {
-    Accept: "application/rss+xml, application/xml, text/xml; q=0.1",
+    Accept: 'application/rss+xml, application/xml, text/xml; q=0.1',
   },
 });
 
 (async () => {
   // 피드 목록
-  const feed = await parser.parseURL("https://wonbin109.tistory.com/rss"); #본인 rss 주소
+  const feed = await parser.parseURL('https://wonbin109.tistory.com/rss');
 
   // 최신 5개의 글의 제목과 링크를 가져온 후 text에 추가
   for (let i = 0; i < 5; i++) {
@@ -68,9 +68,9 @@ const parser = new Parser({
   }
 
   // README.md 파일 작성
-  writeFileSync("README.md", text, "utf8", (e) => {
+  writeFileSync('README.md', text, 'utf8', (e) => {
     console.log(e);
   });
 
-  console.log("업데이트 완료");
+  console.log('업데이트 완료');
 })();

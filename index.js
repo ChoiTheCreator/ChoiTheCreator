@@ -5,7 +5,7 @@ import Parser from 'rss-parser';
  * README.MD에 작성될 페이지 텍스트
  * @type {string}
  */
-let text = `# 반갑습니다. 최원빈입니다. 👋
+let text = `# 반갑습니다 👋
 
 ## Languages
 
@@ -20,12 +20,13 @@ let text = `# 반갑습니다. 최원빈입니다. 👋
 <p>
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/>
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=flat-square&logo=Tailwind CSS&logoColor=white"/>
+  
 </p>
 
 ## Styling Tools
 
 <p>
+  <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=flat-square&logo=Tailwind CSS&logoColor=white"/>
   <img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=Sass&logoColor=white"/>
   <img src="https://img.shields.io/badge/Styled Components-DB7093?style=flat-square&logo=styled-components&logoColor=white"/>
 </p>
@@ -41,7 +42,7 @@ let text = `# 반갑습니다. 최원빈입니다. 👋
 
 ---
 
-<p>아래는 최근 블로그 포스트입니다. 새로운 기술과 스스로의 개발 경험 및 영화 평론과 영화 제작 등을 공유하고 있습니다!</p>
+
 
 ## 📕 Latest Blog Posts
 
@@ -58,8 +59,8 @@ const parser = new Parser({
   // 피드 목록
   const feed = await parser.parseURL('https://wonbin109.tistory.com/rss');
 
-  // 최신 5개의 글의 제목과 링크를 가져온 후 text에 추가
-  for (let i = 0; i < 5; i++) {
+  // 최신 8개의 글의 제목과 링크를 가져온 후 text에 추가
+  for (let i = 0; i < 8; i++) {
     const { title, link } = feed.items[i];
     console.log(`${i + 1}번째 게시물`);
     console.log(`추가될 제목: ${title}`);

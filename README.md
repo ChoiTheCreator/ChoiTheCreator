@@ -38,35 +38,4 @@
 
 ## 📕 Latest Blog Posts
 
-<ul>
-      <li style="margin-bottom: 10px;">
-        📌 <a href="https://wonbin109.tistory.com/74" target="_blank" style="text-decoration: none; color: #007acc;">프론트엔드 개발을 위한 더미 서버 구축 &lt;JSON Server Usage&gt;</a>
-      </li>
-    
-      <li style="margin-bottom: 10px;">
-        📌 <a href="https://wonbin109.tistory.com/73" target="_blank" style="text-decoration: none; color: #007acc;">React x Style &lt;Global Style과 Routing의 조합&gt; : 프로젝트 구조의 최적의 사용법</a>
-      </li>
-    
-      <li style="margin-bottom: 10px;">
-        📌 <a href="https://wonbin109.tistory.com/72" target="_blank" style="text-decoration: none; color: #007acc;">React x Styles &lt;우린 어떤 방식의 스타일을 써야하는가?&gt;</a>
-      </li>
-    
-      <li style="margin-bottom: 10px;">
-        📌 <a href="https://wonbin109.tistory.com/71" target="_blank" style="text-decoration: none; color: #007acc;">React로 만든 Fashion Archive 심층분석 #1.  이벤트핸들러 속성과 Redux 상태관리</a>
-      </li>
-    
-      <li style="margin-bottom: 10px;">
-        📌 <a href="https://wonbin109.tistory.com/70" target="_blank" style="text-decoration: none; color: #007acc;">Frank Ocean - Super Rich Kids의 주관적 해석</a>
-      </li>
-    
-      <li style="margin-bottom: 10px;">
-        📌 <a href="https://wonbin109.tistory.com/69" target="_blank" style="text-decoration: none; color: #007acc;">단편영화 &lt;중독 : 나한테만 보이는&gt; 리뷰</a>
-      </li>
-    
-      <li style="margin-bottom: 10px;">
-        📌 <a href="https://wonbin109.tistory.com/68" target="_blank" style="text-decoration: none; color: #007acc;">난해한 영화의 기준과 매력 그리고 영화를 즐기는 적절한 접근법</a>
-      </li>
-    </ul>
-  <hr/>
-  <p style="font-size: 14px; color: #777;">👉 더 많은 글을 보시려면 <a href="https://wonbin109.tistory.com/" target="_blank" style="text-decoration: none; color: #007acc;"><strong>블로그</strong></a>를 방문해 주세요!</p>
-  
+<a href=https://wonbin109.tistory.com/74>프론트엔드 개발을 위한 더미 서버 구축 &lt;JSON Server Usage&gt;</a></br><a href=https://wonbin109.tistory.com/73>React x Style &lt;Global Style과 Routing의 조합&gt; : 프로젝트 구조의 최적의 사용법</a></br><a href=https://wonbin109.tistory.com/72>React x Styles &lt;우린 어떤 방식의 스타일을 써야하는가?&gt;</a></br><a href=https://wonbin109.tistory.com/71>React로 만든 Fashion Archive 심층분석 #1.  이벤트핸들러 속성과 Redux 상태관리</a></br><a href=https://wonbin109.tistory.com/70>Frank Ocean - Super Rich Kids의 주관적 해석</a></br>

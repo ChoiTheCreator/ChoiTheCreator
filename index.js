@@ -7,7 +7,6 @@ import Parser from 'rss-parser';
  */
 let text = `# 반갑습니다. 최원빈입니다. 👋
 
-
 ## Languages
 
 <p>
@@ -42,7 +41,9 @@ let text = `# 반갑습니다. 최원빈입니다. 👋
 
 ---
 
-<p>아래는 최근 블로그 포스트입니다. 새로운 기술과 스스로의 개발경험 및 영화평론과 영화제작등을 공유하고 있습니다!</p>
+<p>아래는 최근 블로그 포스트입니다. 새로운 기술과 스스로의 개발 경험 및 영화 평론과 영화 제작 등을 공유하고 있습니다!</p>
+
+## 📕 Latest Blog Posts
 
 `;
 
@@ -57,17 +58,14 @@ const parser = new Parser({
   // 피드 목록
   const feed = await parser.parseURL('https://wonbin109.tistory.com/rss'); // 본인의 블로그 주소
 
-  text += `<ul style="list-style-type: square; font-size: 16px;">`;
+  text += `<ul>`;
 
-  // 최신 7개의 글의 제목과 링크를 가져온 후 text에 추가
+  // 최신 10개의 글의 제목과 링크를 가져온 후 text에 추가
   for (let i = 0; i < Math.min(7, feed.items.length); i++) {
-    const { title, link, isoDate } = feed.items[i];
-    const postDate = new Date(isoDate).toLocaleDateString(); // 포스팅 날짜 추가
+    const { title, link } = feed.items[i];
     text += `
-      <li style="margin-bottom: 8px;">
-        <strong>📌 <a href='${link}' target='_blank' style="text-decoration: none; color: #007acc;">${title}</a></strong>
-        <br />
-        <span style="font-size: 14px; color: #555;">🗓️ ${postDate}</span>
+      <li style="margin-bottom: 10px;">
+        📌 <a href="${link}" target="_blank" style="text-decoration: none; color: #007acc;">${title}</a>
       </li>
     `;
   }

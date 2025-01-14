@@ -4,7 +4,6 @@
 
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/> <!-- CSS 추가 -->
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/> 
   <img src="https://img.shields.io/badge/Java-5382A1?style=flat-square&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <!-- Python 추가 -->
@@ -40,4 +39,4 @@
 
 ## 📕 Latest Blog Posts
 
-<a href=https://wonbin109.tistory.com/77>프로젝트에 Open API 적용하기</a></br><a href=https://wonbin109.tistory.com/76>&lt;React + Vue.js&gt; 프로젝트 내 로그인 기능 구현 가이드 With Dummy Server</a></br><a href=https://wonbin109.tistory.com/75>&lt;React + Vue.js&gt; 프로젝트 내 회원가입 기능 구현 가이드</a></br><a href=https://wonbin109.tistory.com/74>프론트엔드 개발을 위한 더미 서버 구축 &lt;JSON Server Usage&gt;</a></br><a href=https://wonbin109.tistory.com/73>React x Style &lt;Global Style과 Routing의 조합&gt; : 프로젝트 구조의 최적의 사용법</a></br><a href=https://wonbin109.tistory.com/72>React x Styles &lt;우린 어떤 방식의 스타일을 써야하는가?&gt;</a></br><a href=https://wonbin109.tistory.com/71>React로 만든 Fashion Archive 심층분석 #1.  이벤트핸들러 속성과 Redux 상태관리</a></br>
+<a href=https://wonbin109.tistory.com/78>Local Storage 사용법과 이를 활용한 최상위 컴포넌트(App.jsx)에서의 책임 분리</a></br><a href=https://wonbin109.tistory.com/77>프로젝트에 Open API 적용하기</a></br><a href=https://wonbin109.tistory.com/76>&lt;React + Vue.js&gt; 프로젝트 내 로그인 기능 구현 가이드 With Dummy Server</a></br><a href=https://wonbin109.tistory.com/75>&lt;React + Vue.js&gt; 프로젝트 내 회원가입 기능 구현 가이드</a></br><a href=https://wonbin109.tistory.com/74>프론트엔드 개발을 위한 더미 서버 구축 &lt;JSON Server Usage&gt;</a></br><a href=https://wonbin109.tistory.com/73>React x Style &lt;Global Style과 Routing의 조합&gt; : 프로젝트 구조의 최적의 사용법</a></br><a href=https://wonbin109.tistory.com/72>React x Styles &lt;우린 어떤 방식의 스타일을 써야하는가?&gt;</a></br>

@@ -50,11 +50,23 @@ let text = `# 반갑습니다 👋
 
 `;
 
+const pinnedPosts = [
+  {
+    title: '📊 Project : Wallet Guardians, 최종 회고록',
+    link: 'https://wonbin109.tistory.com/111',
+  },
+];
+
 // rss-parser 생성
 const parser = new Parser({
   headers: {
     Accept: 'application/rss+xml, application/xml, text/xml; q=0.1',
   },
+});
+
+// 고정된 글 먼저 추가
+pinnedPosts.forEach(({ title, link }) => {
+  text += `<a href="${link}">${title}</a></br>`;
 });
 
 (async () => {

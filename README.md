@@ -4,6 +4,7 @@
 
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/> 
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/> 
   <img src="https://img.shields.io/badge/Java-5382A1?style=flat-square&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <!-- Python 추가 -->
@@ -30,6 +31,7 @@
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/>
   <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/>
   <img src="https://img.shields.io/badge/RStudio-75AADB?style=flat-square&logo=RStudio&logoColor=white"/>
 </p>
@@ -39,4 +41,4 @@
 
 ## 📕 Latest Blog Posts
 
-<a href=https://wonbin109.tistory.com/91>  Timer 활용한 그래프 상승 애니메이션 아이디어 개발</a></br><a href=https://wonbin109.tistory.com/90>Emotion을 활용한 스타일 재활용에 대한 생각</a></br><a href=https://wonbin109.tistory.com/89>⏿ 실제 백엔드와 프론트엔드 통신 #5: Content-Type 다양화하기 (Using Axios Instance &amp; Interceptor</a></br><a href=https://wonbin109.tistory.com/88>⏿ 실제 백엔드와 프론트엔드 통신 #4. Axios Instance에서 셋의 비동기적 공존</a></br><a href=https://wonbin109.tistory.com/87>⏿ 실제 백엔드와 프론트엔드 통신 #3. Axios Instance와 Refresh, Access 토큰 함수</a></br><a href=https://wonbin109.tistory.com/86>⏿ 실제 백엔드와 프론트엔드 통신 #2. Axios Instance와 요청, 응답 Intercepter</a></br><a href=https://wonbin109.tistory.com/85>⏿실제 백엔드와 프론트엔드 통신 #1. 인증과 권한부여 &lt;토큰&gt;</a></br>
+<a href=https://wonbin109.tistory.com/111>소극적인 재무관리를 하는 20대를 위한 프로젝트, &lt;Wallet Guardians&gt; 최종 회고록</a></br><a href=https://wonbin109.tistory.com/110>소극적인 재무관리를 하는 20대를 위한 프로젝트, &lt;Wallet Guardians&gt; #3. 완성 시점에서 되돌아보는 중간과정의 고뇌</a></br><a href=https://wonbin109.tistory.com/109>소극적인 재무관리를 하는 20대를 위한 프로젝트, &lt;Wallet Guardians&gt;  #2. 팀 구축과 기술 스택 소개</a></br><a href=https://wonbin109.tistory.com/108>소극적인 재무관리를 하는 20대를 위한 프로젝트, &lt;Wallet Guardians&gt;  #1. 시작했던 계기와 기능소개</a></br><a href=https://wonbin109.tistory.com/107>프로젝트 Wallet Guardians의 프론트 개발자로서 했던 몇가지 고민 Part #1.</a></br><a href=https://wonbin109.tistory.com/106>본격연동 #8. 명확한 API 컴포넌트간의 삼권분립 : 간결화와 유지보수성 향상</a></br><a href=https://wonbin109.tistory.com/105>상태변경함수 x  prev 매개변수 세상에서 제일 쉽게 설명하기</a></br>

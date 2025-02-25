@@ -52,7 +52,7 @@ let text = `# 반갑습니다 👋
 
 const pinnedPosts = [
   {
-    title: '📊 Project : Wallet Guardians, 최종 회고록',
+    title: '📌 Project : Wallet Guardians, 최종 회고록',
     link: 'https://wonbin109.tistory.com/111',
   },
 ];
